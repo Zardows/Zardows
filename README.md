@@ -6,7 +6,6 @@
 - 🖲  I love DevOps
 - 🧐  I'm currently learning everything about programming
 - 🔬  I'm looking for opportunitiese in DevOps
-- 🥅  My goal of 2021 is to find my way on programming world
 - 👾  Fun fact: I love tryharding everything in my life
 
 ## Language and Tools
